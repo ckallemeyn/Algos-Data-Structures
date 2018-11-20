@@ -1,2 +1,2 @@
-# Algos-Data-Structures
+# Algos-and-Data-Structures
 A collection of Algorithms and Data Structures for deeper understanding of CS fundamentals
