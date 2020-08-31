@@ -18,7 +18,7 @@ binarySearch([20,30,40,50,60,70], 60) returns 4
 var binarySearch = (sortedArr, target) => {
   var left = 0;
   var middle;
-  var right = sortedArr.length -1;
+  var right = sortedArr.length - 1;
   // while the left pointer comes before the right pointer
   while (left <= right) {
     // assign the middle value to be in between the two indexes
