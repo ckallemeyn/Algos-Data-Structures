@@ -4,6 +4,7 @@ class Stack {
     this.height = 0;
     this.storage = {};
   }
+
   push() {
 
   }
@@ -13,6 +14,7 @@ class Stack {
   }
 
   size() {
-    
+
   }
+  
 }
